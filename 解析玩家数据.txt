@@ -1,0 +1,9 @@
+1.测试数据库是否能通
+http://183.136.221.50:8899/test_cgi.cgi?action=1&ip=183.136.221.50&user=root&passwd=gywl2013&servername=testver_9_6_coordinator&port=3306
+
+
+2.获得角色数据
+http://183.136.221.50:8899/test_cgi.cgi?action=2&ip=183.136.221.50&user=root&passwd=gywl2013&servername=testver_9_6_coordinator&port=3306&id=1
+
+3.获得离线角色数据
+http://183.136.221.50:8899/test_cgi.cgi?action=3&ip=183.136.221.50&user=root&passwd=gywl2013&servername=testver_9_6_coordinator&port=3306&id=111
