@@ -1,0 +1,4 @@
+1.AccountServer的代码不完整，缺失配置文件
+2.LogServer没有代码
+3.PaySys的没有代码（支付那部分的代码）
+4.LibQrt下的库没有代码(重点)
